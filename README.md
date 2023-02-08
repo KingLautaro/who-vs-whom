@@ -1,2 +1,3 @@
 # who-vs-whom
-this is the rule to know difference between the two
+this is the rule to know difference between the two.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              What’s the difference between who and whom? Put simply, “who” is the person who does an action, and “whom” is the person who receives the action or its effects. In grammatical terms, “who” is a subjective pronoun, meaning it refers to the subject of a sentence or clause: “Aunt Marianne is a palm reader,” said Hannah.
